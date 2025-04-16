@@ -36,7 +36,7 @@ def run_basic_example():
         preprocess='center',
         iterations=50,  # Reduced for example
         adaptive_resampling=False,
-        shuffle_sample_order=False,
+        cv_shuffle_mode='none',
         verbose=1
     )
     
