@@ -1,5 +1,5 @@
 """
-Utility functions for CARS algorithm.
+Utility functions for SpectralCARSLib.
 
 This module provides utility functions to support the main CARS algorithm.
 """
@@ -24,4 +24,5 @@ def suppress_pls_warnings():
     with warnings.catch_warnings():
         warnings.filterwarnings("ignore", category=RuntimeWarning, 
                                message="invalid value encountered in divide")
+        warnings.filterwarnings("ignore", category=UserWarning)
         yield

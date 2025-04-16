@@ -1,5 +1,5 @@
 """
-Data preprocessing utilities for CARS algorithm.
+Data preprocessing utilities for SpectralCARSLib.
 
 This module provides functions for different preprocessing methods commonly used
 in chemometrics and spectroscopy applications.
@@ -16,7 +16,7 @@ def preprocess_data(X, method, mean=None, scale=None):
     X : array-like
         Data to preprocess
     method : str
-        Preprocessing method: 'center', 'autoscaling', 'pareto', 'minmax', or 'none'
+        Preprocessing method: 'center', 'autoscaling', 'pareto', 'minmax', 'robust', 'unilength', or 'none'
     mean : array-like, optional
         Precalculated mean values
     scale : array-like, optional
