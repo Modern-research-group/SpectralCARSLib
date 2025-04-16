@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-AA high-performance implementation of Competitive Adaptive Reweighted Sampling (CARS) family of algorithms for variable selection in PLS regression and classification models, with a focus on spectroscopy applications.
+A high-performance implementation of Competitive Adaptive Reweighted Sampling (CARS) family of algorithms for variable selection in PLS regression and classification models, with a focus on spectroscopy applications.
 
 ## Overview
 
