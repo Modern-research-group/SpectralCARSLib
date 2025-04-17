@@ -41,7 +41,7 @@ pip install SpectralCARSLib[optimizer]
 
 Clone the repository locally and install with:
 ```bash
-git clone https://github.com/Ginnovation-lab/SpectralCARSLib.git
+git clone https://github.com/Modern-research-group/SpectralCARSLib.git
 cd SpectralCARSLib
 pip install -e .
 ```
