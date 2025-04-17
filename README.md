@@ -210,7 +210,7 @@ For detailed API documentation and examples, please see the [docs](docs/) direct
 If you use this implementation in your research, please cite:
 
 ```
-@article{wongchaisuwat2025rapid,
+@article{
   title={Rapid maize seed vigor classification using deep learning and hyperspectral imaging techniques},
   author={Wongchaisuwat, Papis and Chakranon, Pongsan and Yinpin, Achitpon and Onwimol, Damrongvudhi and Wonggasem, Kris},
   journal={Smart Agricultural Technology},
@@ -225,7 +225,7 @@ If you use this implementation in your research, please cite:
 For the original CARS method, please also cite:
 
 ```
-@article{li2009variable,
+@article{
   title={Variable selection in visible and near-infrared spectral analysis for noninvasive blood glucose concentration prediction},
   author={Li, Hongdong and Liang, Yizeng and Xu, Qingsong and Cao, Dongsheng},
   journal={Analytica Chimica Acta},
